@@ -1,6 +1,8 @@
 # AirInterview
 
-This document contains the assignment for role of computer vision position
+This document contains the assignment for role of computer vision position. 
+
+Assuming you know the basic knowledge about C++, CMake and Docker, this will only take you at most 2 hours to finish the basic requirement.  
 
 ## Requirements
 
@@ -26,7 +28,7 @@ By using table_scene_mug_stereo_textured.pcd, find the cylinder object inside th
 
 - Cylinder inlier point cloud file
 
-### Bonus
+### Bonus(Optional)
 
 1. Visualization screenshot or video
 
