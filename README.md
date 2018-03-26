@@ -20,11 +20,11 @@ By using table_scene_mug_stereo_textured.pcd, find the cylinder object inside th
 
 ### Input 
 
-1. [table_scene_mug_stereo_textured.pcd](https://github.com/Airsquire/AirInterview/blob/master/table_scene_mug_stereo_textured.pcd)
+- [table_scene_mug_stereo_textured.pcd](https://github.com/Airsquire/AirInterview/blob/master/table_scene_mug_stereo_textured.pcd)
 
 ### Output
 
-1. Cylinder inlier point cloud file
+- Cylinder inlier point cloud file
 
 ### Bonus
 
