@@ -35,8 +35,6 @@ table_scene_mug_stereo_textured.pcd under this github repo
 
 3. Good documentation
 
-4. Good git history which represents essencial thinking process
-
 ## Recommendation
 
 1. Tutorial -- http://pointclouds.org/documentation/tutorials/cylinder_segmentation.php#cylinder-segmentation
