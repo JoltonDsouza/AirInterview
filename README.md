@@ -11,7 +11,7 @@ This document contains description and requirements for assignment for Airsquire
 
 ## Assignment
 
-Cylinder model segmentation
+Cylinder model segmentation using sample data. Fork this project to your own github repo and create a pull request once finished the assignment.
 
 ### Input 
 
@@ -27,6 +27,7 @@ table_scene_mug_stereo_textured.pcd under this github repo
 1. Render the final result in web
 2. TDD(test driven development) approach
 3. Good documentation
+4. Good git history which represents essencial thinking process
 
 ## Recommendation
 
