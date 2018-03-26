@@ -40,7 +40,7 @@ By using table_scene_mug_stereo_textured.pcd, find the cylinder object inside th
 
 1. Tutorial -- http://pointclouds.org/documentation/tutorials/cylinder_segmentation.php#cylinder-segmentation
 
-2. Dev environment setup --- [docker image](https://github.com/Airsquire/PCL-Docker) provided by Airsquire or follow the tutorial [here](http://pointclouds.org/documentation/tutorials/)
+2. Dev environment setup --- [docker image](https://hub.docker.com/r/youyue/pcl-docker/) provided by Airsquire or follow the tutorial [here](http://pointclouds.org/documentation/tutorials/)
 
 3. Testing framework -- [Google Test](https://github.com/google/googletest)
 
