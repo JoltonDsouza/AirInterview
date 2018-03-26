@@ -1,17 +1,22 @@
 # AirInterview
-This document contains description and requirements for assignment for Airsquire computer vision position
+
+This document assignment requirement for Airsquire computer vision position
 
 ## Requirements
+
+Fork this project and create a pull request once finished the assignment.
 
 ## Goal
 
 1. Verify candidate's ability to work with point cloud data
-2. Verify candidate's ability to read documentation and implementation
+2. Verify candidate's ability to read documentation and implementation skill
 3. Verify candidate's ability to write clean and testable code
 
 ## Assignment
 
-Cylinder model segmentation using sample data. Fork this project to your own github repo and create a pull request once finished the assignment.
+### Cylinder model segmentation 
+
+By using table_scene_mug_stereo_textured.pcd, find the cylinder inside the scene. 
 
 ### Input 
 
