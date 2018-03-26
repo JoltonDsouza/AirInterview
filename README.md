@@ -16,7 +16,7 @@ Fork this project and create a pull request once finished the assignment.
 
 ### Cylinder model segmentation 
 
-By using table_scene_mug_stereo_textured.pcd, find the cylinder inside the scene. 
+By using table_scene_mug_stereo_textured.pcd, find the cylinder object inside the scene.
 
 ### Input 
 
@@ -25,15 +25,16 @@ By using table_scene_mug_stereo_textured.pcd, find the cylinder inside the scene
 ### Output
 
 1. Cylinder inlier point cloud file
-2. Visualization screenshot or video
 
 ### Bonus
 
-1. Render the final result in web
+1. Visualization screenshot or video
 
-2. TDD(test driven development) approach
+2. Render the final result in web
 
-3. Good documentation
+3. TDD(test driven development) approach
+
+4. Good documentation
 
 ## Recommendation
 
