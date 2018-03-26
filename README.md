@@ -44,6 +44,6 @@ By using table_scene_mug_stereo_textured.pcd, find the cylinder object inside th
    - Using [docker image](https://hub.docker.com/r/youyue/pcl-docker/) provided by Airsquire 
    - Or following the [official tutorial](http://pointclouds.org/documentation/tutorials/)
 
-3. Testing framework -- [Google Test](https://github.com/google/googletest)
+3. Testing framework -- [Google Test](https://github.com/google/googletest). You can use my [blog post](https://youyue123.github.io/tech/2018/01/29/TDD-for-C++-in-CMake-And-GoogleTest.html) as a reference.
 
 4. Web rendering -- [Three.js](https://threejs.org/docs/index.html#manual/introduction/Creating-a-scene)
