@@ -30,8 +30,11 @@ table_scene_mug_stereo_textured.pcd under this github repo
 ### Bonus
 
 1. Render the final result in web
+
 2. TDD(test driven development) approach
+
 3. Good documentation
+
 4. Good git history which represents essencial thinking process
 
 ## Recommendation
