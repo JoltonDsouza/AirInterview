@@ -20,7 +20,7 @@ By using table_scene_mug_stereo_textured.pcd, find the cylinder inside the scene
 
 ### Input 
 
-table_scene_mug_stereo_textured.pcd under this github repo
+1. [table_scene_mug_stereo_textured.pcd](https://github.com/Airsquire/AirInterview/blob/master/table_scene_mug_stereo_textured.pcd)
 
 ### Output
 
