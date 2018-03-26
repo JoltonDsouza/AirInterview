@@ -1,6 +1,6 @@
 # AirInterview
 
-This document assignment requirement for Airsquire computer vision position
+This document contains the assignment for role of computer vision position
 
 ## Requirements
 
@@ -39,3 +39,7 @@ table_scene_mug_stereo_textured.pcd under this github repo
 1. Tutorial -- http://pointclouds.org/documentation/tutorials/cylinder_segmentation.php#cylinder-segmentation
 
 2. Dev environment setup --- [docker image](https://github.com/Airsquire/PCL-Docker) provided by Airsquire or follow the tutorial [here](http://pointclouds.org/documentation/tutorials/)
+
+3. Testing framework -- [Google Test](https://github.com/google/googletest)
+
+4. Web rendering -- [Three.js](https://threejs.org/docs/index.html#manual/introduction/Creating-a-scene)
