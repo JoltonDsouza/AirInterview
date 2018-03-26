@@ -34,7 +34,7 @@ By using table_scene_mug_stereo_textured.pcd, find the cylinder object inside th
 
 3. TDD(test driven development) approach
 
-4. Good documentation
+4. Good documentation habit including code comment, project readme.
 
 ## Recommendation
 
