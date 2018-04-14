@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Jolton\Desktop\Airsquire\build\CMakeFiles\9a337c7c7987d135a31702c45ab3e982\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{04CE6BEA-FC3F-396B-9473-056EE68F810C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
